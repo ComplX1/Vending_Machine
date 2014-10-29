@@ -1,0 +1,7 @@
+D:\Development\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Development\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Development\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Development\ConsoleApplication1\ConsoleApplication1\bin\Debug\Vending_Machine.dll
+D:\Development\ConsoleApplication1\ConsoleApplication1\bin\Debug\Vending_Machine.pdb
+D:\Development\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Development\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
