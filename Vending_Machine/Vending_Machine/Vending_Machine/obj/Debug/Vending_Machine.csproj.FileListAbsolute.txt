@@ -6,3 +6,9 @@ D:\Development\ConsoleApplication1\ConsoleApplication1\bin\Debug\Vending_Machine
 D:\Development\ConsoleApplication1\ConsoleApplication1\obj\Debug\Vending_Machine.csprojResolveAssemblyReference.cache
 D:\Development\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\Development\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+\\FS01\chris.morley$\GitHub\Vending_Machine\Vending_Machine\Vending_Machine\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+\\FS01\chris.morley$\GitHub\Vending_Machine\Vending_Machine\Vending_Machine\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\FS01\chris.morley$\GitHub\Vending_Machine\Vending_Machine\Vending_Machine\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+\\FS01\chris.morley$\GitHub\Vending_Machine\Vending_Machine\Vending_Machine\Vending_Machine\bin\Debug\ConsoleApplication1.exe.config
+\\FS01\chris.morley$\GitHub\Vending_Machine\Vending_Machine\Vending_Machine\Vending_Machine\obj\Debug\ConsoleApplication1.exe
+\\FS01\chris.morley$\GitHub\Vending_Machine\Vending_Machine\Vending_Machine\Vending_Machine\obj\Debug\ConsoleApplication1.pdb

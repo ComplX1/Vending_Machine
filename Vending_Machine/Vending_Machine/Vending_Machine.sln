@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vending_Machine", "ConsoleApplication1\Vending_Machine.csproj", "{09497F1E-BE5F-48CA-B16E-87BE0EA3A1DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vending_Machine", "Vending_Machine\Vending_Machine.csproj", "{09497F1E-BE5F-48CA-B16E-87BE0EA3A1DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
